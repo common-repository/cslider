@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cslider\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-01-24 06:56+0100\n"
+"PO-Revision-Date: 2012-01-24 06:57+0100\n"
+"Last-Translator: Julian Weinert // cs&m <j.weinert@cs-und-m.de>\n"
+"Language-Team: Julian Weinert // cs&m <j.weinert@cs-und-m.de>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../cslider.php:268
+msgid "cSlider Settings"
+msgstr "cSlider Einstellungen"
+
+#: ../cslider.php:268
+msgid "Version"
+msgstr "Version"
+
+#: ../cslider.php:463
+msgid "cSlider default Settings"
+msgstr "cSlider Standard-Einstellungen"
+
+#: ../cslider.php:470
+msgid "Width:"
+msgstr "Breite:"
+
+#: ../cslider.php:476
+msgid "The default width for sliders content."
+msgstr "Die Standardbreite für den Inhalt des Sliders."
+
+#: ../cslider.php:481
+msgid "Transition Mode:"
+msgstr "Übergangs-Art:"
+
+#: ../cslider.php:485
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: ../cslider.php:486
+msgid "Vertical"
+msgstr "Vertikal"
+
+#: ../cslider.php:487
+msgid "Crossfade"
+msgstr "Überblenden"
+
+#: ../cslider.php:493
+msgid "Transition Speed:"
+msgstr "Übergangs-Dauer:"
+
+#: ../cslider.php:499
+msgid "The default speed for transitions."
+msgstr "Die Standarddauer für Übergänge."
+
+#: ../cslider.php:503
+msgid "Infinite Loop:"
+msgstr "Endlos-Schleife:"
+
+#: ../cslider.php:509
+msgid "Whether the slides should repeat."
+msgstr "Ob sich alle Slides wiederholen sollen."
+
+#: ../cslider.php:514
+msgid "Show navigation arrows:"
+msgstr "Navigationspfeile anzeigen:"
+
+#: ../cslider.php:522
+msgid "Start slide index:"
+msgstr "Index des zuerst angezeigten Slides:"
+
+#: ../cslider.php:528
+msgid "The index of the first slide to appear."
+msgstr "Der Index des Slides, der als erstes gezeigt wird."
+
+#: ../cslider.php:533
+msgid "Random start:"
+msgstr "Zufällig"
+
+#: ../cslider.php:539
+msgid "Whether the first slide to appear is random."
+msgstr "Ob der zuerst angezeigte Slide zufällig gewählt wird."
+
+#: ../cslider.php:544
+msgid "Hide controls at flanks"
+msgstr "Navigationspfeile automatisch ausblenden"
+
+#: ../cslider.php:550
+msgid "Not working yet!"
+msgstr "Noch nicht unterstützt."
+
+#: ../cslider.php:555
+msgid "Auto sliding:"
+msgstr "Automatisches sliden:"
+
+#: ../cslider.php:561
+msgid "Automated sliding. Before every slide a delay of \"pause\" field."
+msgstr "Automatisches sliden. Vor jedem Slide eine Pause von \"pause\" Feld."
+
+#: ../cslider.php:566
+msgid "Pause between slides:"
+msgstr "Pause zwischen den Slides:"
+
+#: ../cslider.php:574
+msgid "Automated slide direction:"
+msgstr "Automatisch Slide-Richtung:"
+
+#: ../cslider.php:578
+#: ../cslider.php:647
+msgid "Next"
+msgstr "Weiter"
+
+#: ../cslider.php:579
+#: ../cslider.php:648
+msgid "Previous"
+msgstr "Zurück"
+
+#: ../cslider.php:583
+msgid "The slide direction of automated slides."
+msgstr "Die Richtung von automatischen Slides."
+
+#: ../cslider.php:588
+msgid "Pause automated slides on hover:"
+msgstr "Automatische slides bei hover stoppen:"
+
+#: ../cslider.php:594
+msgid "Pauses the automated sliding on mouseover."
+msgstr "Stoppt automatische Slides, wenn die Maus darüber gefahren wird."
+
+#: ../cslider.php:599
+msgid "Pager:"
+msgstr "Seiten-Navigation:"
+
+#: ../cslider.php:605
+msgid "Displays the page navigation."
+msgstr "Zeigt eine Seiten-Navigation an."
+
+#: ../cslider.php:610
+msgid "Pager location:"
+msgstr "Position der Navigation:"
+
+#: ../cslider.php:614
+msgid "Bottom"
+msgstr "Unten"
+
+#: ../cslider.php:615
+msgid "Top"
+msgstr "Oben"
+
+#: ../cslider.php:621
+msgid "Ticker:"
+msgstr "Ticker:"
+
+#: ../cslider.php:627
+msgid "Whether the slider should slide continuously with a speed of \"Ticker speed\" field."
+msgstr "Ob die slides durchgängig sliden sollen."
+
+#: ../cslider.php:632
+msgid "Ticker speed:"
+msgstr "Ticker-Geschwindigkeit:"
+
+#: ../cslider.php:638
+msgid "A value between 1 and 5000."
+msgstr "Ein Wert zwischen 1 und 5000."
+
+#: ../cslider.php:643
+msgid "Ticker direction:"
+msgstr "Ticker-Richtung:"
+
+#: ../cslider.php:652
+msgid "The slide direction of the tciker."
+msgstr "Die Richtung des Tickers."
+
+#: ../cslider.php:657
+msgid "Stop ticker on hover:"
+msgstr "Ticker bei hover stoppen:"
+
+#: ../cslider.php:663
+msgid "Pauses the ticker on mouseover."
+msgstr "Stoppt den Ticker, wenn die Maus darüber gefahren wird."
+
+#: ../cslider.php:668
+msgid "Save settings"
+msgstr "Einstellungen sichern"
+
